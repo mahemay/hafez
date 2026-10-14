@@ -1,0 +1,6 @@
+{
+  "name": "Fal-e Hafez - Android Jetpack Compose Studio",
+  "description": "Premium offline Android application architecture and interactive simulation for Fal-e Hafez using Jetpack Compose, Material 3, and Clean Architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
